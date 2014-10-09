@@ -405,6 +405,7 @@
 				A668C27219D4F10A00B641A5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A668C27319D4F10A00B641A5 /* Build configuration list for PBXNativeTarget "TIPSTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +414,7 @@
 				A668C27519D4F10A00B641A5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

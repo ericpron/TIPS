@@ -2,8 +2,8 @@
 //  TIPSTests.swift
 //  TIPSTests
 //
-//  Created by Marcos Mejia on 9/25/14.
-//  Copyright (c) 2014 Marcos Mejia. All rights reserved.
+//  Created by Eric Eriksson on 9/25/14.
+//  Copyright (c) 2014 Eric Eriksson. All rights reserved.
 //
 
 import UIKit
